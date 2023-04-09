@@ -4,7 +4,9 @@ This program demonstrates the basic operations of a singly linked list, includin
 # Operations:
 
 **at_beginning(int data)**: This function inserts a new node with the given data value at the beginning of the linked list.
+
 **at_end(int data)**: This function inserts a new node with the given data value at the end of the linked list.
+
 **insert(int data, int pos)**: This function inserts a new node with the given data value at the specified position within the linked list.
 
 # Usage:
